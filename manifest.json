@@ -1,0 +1,25 @@
+{
+  "short_name": "FitTrack",
+  "name": "FitTrack - Your Workout Planner",
+  "description": "Plan and log your gym workouts easily with FitTrack.",
+  "icons": [
+    {
+      "src": "https://[YOUR_USERNAME].github.io/[YOUR_REPOSITORY_NAME]/icons/your-icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://[YOUR_USERNAME].github.io/[YOUR_REPOSITORY_NAME]/icons/your-icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F0F2F5",
+  "theme_color": "#4A90E2",
+  "scope": ".",
+  "orientation": "portrait"
+}
