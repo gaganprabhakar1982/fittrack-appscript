@@ -4,13 +4,13 @@
   "description": "Plan and log your gym workouts easily with FitTrack.",
   "icons": [
     {
-      "src": "https://gaganprabhakar1982.github.io/fittrack-appscript/icons/your-icon-192x192.png",
+      "src": "https://github.com/gaganprabhakar1982/fittrack-appscript/blob/main/192x192.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "any maskable"
     },
     {
-      "src": "https://[YOUR_USERNAME].github.io/[YOUR_REPOSITORY_NAME]/icons/your-icon-512x512.png",
+      "src": "https://github.com/gaganprabhakar1982/fittrack-appscript/blob/main/512x512.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any maskable"
